@@ -1,5 +1,7 @@
 # Ukkonen's Algorithm
-Ukkonen's Algorithm implemented by python with tkinter interface
+Creating suffix tree using Ukkonen's Algorithm.
+
+Ukkonen's Algorithm implemented with python and tkinter interface
 
 There are 4 code, the general principle of all of them are the same; All of them create a (generalized) suffix tree in linear time. But each of them uses this tree to solve different problems.
 
